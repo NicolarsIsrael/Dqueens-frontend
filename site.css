@@ -25,7 +25,9 @@
 .nav-link:hover, .nav-link:active{
   color:#E97128;
 }
-
+.nav-item{
+	margin-right: 10px; margin-left: 10px;
+}
 
 /* background */
 
